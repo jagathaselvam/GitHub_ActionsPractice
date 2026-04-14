@@ -1,11 +1,11 @@
 [
-  { "UN": "Trends06208", "Pwd": "J5TKD6" },
+  { "UN": "Trends06208", "Pwd": "J5TKD6", "result": "Pass" },
 
-  { "UN": "Trends06208", "Pwd": "J5T" },
+  { "UN": "Trends06208", "Pwd": "J5T", "result": "Fail" },
 
-  { "UN": "Trends", "Pwd": "J5TKD6" },
+  { "UN": "Trends", "Pwd": "J5TKD6", "result": "Fail" },
 
-  { "UN": "Trends0", "Pwd": "J5T" },
+  { "UN": "Trends0", "Pwd": "J5T", "result": "Fail" },
 
-  { "UN": "  ", "Pwd": "   " }
+  { "UN": "  ", "Pwd": "   ", "result": "Fail" }
 ]
